@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="BismarckGMLogowhite-04.png" alt="drawing" width="400"/>
+</p>
 ### Hi there 👋
 
 <!--
