@@ -16,27 +16,33 @@ Here you can watch what I've done since I committed to the journey of becoming a
   <summary>A little bit about me.</summary>
   <br>
 
-  &nbsp;&nbsp;&nbsp;I'm from Argentina and worked most of my adult life in the Real State business. 
-  Also worked attending customers in all different kinds of business.<br>
-  &nbsp;&nbsp;&nbsp;I like to recognize good and bad services. Love feedback about everything, if given positively and honest, better.
+  - I'm from Argentina and worked most of my adult life in the Real State business. 
+  Also worked attending customers in all different kinds of business.
+  - I like to recognize good and bad services. Love feedback about everything, if given positively and honest, better.
 
-  &nbsp;&nbsp;&nbsp;And like I suppose everybody does I love Life in the most meaningful way of the word. I consider every little detail counts.
+  - Like I suppose everybody does I love Life in the most meaningful way of the word. I consider every little detail counts.
 
-  &nbsp;&nbsp;&nbsp;I'm a Drummer 🥁. And I think music is essential in everyday life. I use to hear a ton of genres, mostly 🎸Heavy-Metal🎸 drove.
+  - 🥁 I'm a Drummer . And I think music is essential in everyday life. I use to hear a ton of genres, mostly 🎸Heavy-Metal🎸 drove.
 
-  &nbsp;&nbsp;&nbsp;And lastly, for a couple of years, I've been committed to introspect and add healthy improvements to my life.<br>
-  &nbsp;&nbsp;&nbsp;Jogging/running, home training (calisthenics), quit smoking 🚭 , and eating healthy.
+  - 🛰️ Big fan of Space, Astronomy and Rocketry.
+
+  - And lastly, for a couple of years, I've been committed to introspect and add healthy improvements to my life.
+    - 🏃‍♂️ Jogging/running,
+    - 🏋️ home training (calisthenics),
+    - 🚭 no smoking,
+    - 🍒 and eating healthy.
 </details>
 <br>
 <details>
 <summary>Why Bismarck?</summary>
 <br>
-Because at the time of building my GitHub account I was hearing 'all day long' a song from Sabaton called Bismarck.
+Because at the time of building my GitHub account I was hearing 'all day long' a [song from Sabaton called Bismarck](https://www.youtube.com/watch?v=n4zAyyh5VLo).
 
 Also I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
 </details>
 <br>
 
+## I'm currently coursing through [Microverse](https://www.microverse.org/)
 
 ### Contact Me:
 
