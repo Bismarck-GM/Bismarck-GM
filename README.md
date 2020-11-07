@@ -40,8 +40,6 @@ Here you can watch what I've done since I committed to the journey of becoming a
   Also, I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
 </details>
 
-### I'm currently coursing through [Microverse](https://www.microverse.org/)
-
 ## Contact 🔗:
 
 - Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
@@ -58,7 +56,7 @@ Here you can watch what I've done since I committed to the journey of becoming a
 </p>
 
 <p align="center">
-  [<img src="javascript.svg" alt="drawing" width="40"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  <img src="javascript.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="react.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="html5.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
@@ -68,21 +66,31 @@ Here you can watch what I've done since I committed to the journey of becoming a
   <img src="bulma.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="bootstrap.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="webpack.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="sass.svg" alt="drawing" width="40"/>
+</p>
+<p align="center">
+  <img src="git.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="github.svg" alt="drawing" width="40"/>
+</p>
+<p align="center">
+  <img src="windows.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
 </p>
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-<!--
-**Bismarck-GM/Bismarck-GM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>My GitHub Stats!</summary>
 
-Here are some ideas to get you started:
+  <p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight)](https://geronimomorisot.me/)
+  </p>
+</details>
+
+### 🧑‍🎓 I'm currently coursing through [Microverse](https://www.microverse.org/) 🧑‍🎓
+
+<hr>
+<p align="center">
+   <i><strong>“it will never be perfect. make it work” -- life</strong></i>
+   <br>
+   <br>
+<br>	
