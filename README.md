@@ -12,7 +12,7 @@ I enjoy learning and building different kinds of projects. I'm into all kinds of
 
 Here you can watch what I've done since I committed to the journey of becoming a Full Stack Developer, a dream I have since I was a child.
 
-<h2 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h2>
+<h4 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h4>
 
 <br><br>
 <details>
