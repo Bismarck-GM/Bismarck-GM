@@ -11,10 +11,11 @@
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
 
 Here you can watch what I've done since I committed to the journey of becoming a Full Stack Developer, a dream I have since I was a child.
+<br>
 
-<h4 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h4>
+<h3 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h3>
 
-<br><br>
+<br>
 <details>
   <summary>A little bit about me.</summary>
   <br>
@@ -44,6 +45,7 @@ Here you can watch what I've done since I committed to the journey of becoming a
 </details>
 
 ## Contact 🔗:
+<br>
 
 - Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
 - Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
