@@ -11,6 +11,9 @@
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
 
 Here you can watch what I've done since I committed to the journey of becoming a Full Stack Developer, a dream I have since I was a child.
+
+<center> <h2>🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h2> </center>
+
 <br><br>
 <details>
   <summary>A little bit about me.</summary>
@@ -77,16 +80,15 @@ Here you can watch what I've done since I committed to the journey of becoming a
   &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
 </p>
 
+
 <details>
   <summary>My GitHub Stats!</summary>
 
-  <p align="center">
-
   [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight)](https://geronimomorisot.me/)
-  </p>
-</details>
 
-### 🧑‍🎓 I'm currently coursing through [Microverse](https://www.microverse.org/) 🧑‍🎓
+  </a>
+
+</details>
 
 <hr>
 <p align="center">
