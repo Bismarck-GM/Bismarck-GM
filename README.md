@@ -11,7 +11,7 @@
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
 
 Here you can watch what I've done since I committed to the journey of becoming a Full Stack Developer, a dream I have since I was a child.
-<br>
+<br><br>
 <details>
   <summary>A little bit about me.</summary>
   <br>
@@ -34,20 +34,30 @@ Here you can watch what I've done since I committed to the journey of becoming a
 </details>
 <br>
 <details>
-<summary>Why Bismarck?</summary>
-<br>
-Because at the time of building my GitHub account I was hearing 'all day long' a [![Bismarck](http://img.youtube.com/vi/n4zAyyh5VLo/0.jpg)](http://www.youtube.com/watch?v=n4zAyyh5VLo "song from Sabaton called Bismarck")
-
-Also I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
+  <summary>Why Bismarck?</summary>
+  <br>
+  Because at the time of building my GitHub account I was hearing 'all day long' a song from Sabaton called Bismarck.<br>
+  Also, I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
 </details>
-<br>
 
-## I'm currently coursing through [Microverse](https://www.microverse.org/)
+### I'm currently coursing through [Microverse](https://www.microverse.org/)
 
-### Contact Me:
+## Contact 🔗:
 
+- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
+- Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
+- Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
 
+## My Stack and tools:
 
+<p align="center">
+  <img src="ruby.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="rubyonrails.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="postgresql.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="mysql.svg" alt="drawing" width="40"/>
+</p>
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <!--
 **Bismarck-GM/Bismarck-GM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
