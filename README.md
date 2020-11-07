@@ -16,6 +16,7 @@ Here you can watch what I've done since I committed to the journey of becoming a
 <h3 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h3>
 
 <br>
+<hr>
 <details>
   <summary>A little bit about me.</summary>
   <br>
@@ -36,13 +37,16 @@ Here you can watch what I've done since I committed to the journey of becoming a
     - 🚭 no smoking,
     - 🍒 and eating healthy.
 </details>
+<hr>
 <br>
+<hr>
 <details>
   <summary>Why Bismarck?</summary>
   <br>
   Because at the time of building my GitHub account I was hearing 'all day long' a song from Sabaton called Bismarck.<br>
   Also, I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
 </details>
+<hr>
 
 ## Contact 🔗:
 <br>
@@ -82,6 +86,7 @@ Here you can watch what I've done since I committed to the journey of becoming a
   &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
 </p>
 
+<hr>
 
 <details>
   <summary>My GitHub Stats!</summary>
@@ -93,8 +98,8 @@ Here you can watch what I've done since I committed to the journey of becoming a
 </details>
 
 <hr>
-<p align="center">
+<h3 align="center">
    <i><strong>“it will never be perfect. make it work” -- life</strong></i>
    <br>
    <br>
-<br>	
+</h3>	
