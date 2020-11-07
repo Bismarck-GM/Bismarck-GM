@@ -44,9 +44,9 @@ Here you can watch what I've done since I committed to the journey of becoming a
 
 ## Contact 🔗:
 
-- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
 - Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
 - Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
+- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
 
 ## My Stack and tools:
 
@@ -55,6 +55,20 @@ Here you can watch what I've done since I committed to the journey of becoming a
   &nbsp;&nbsp;&nbsp;<img src="rubyonrails.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="postgresql.svg" alt="drawing" width="40"/>
   &nbsp;&nbsp;&nbsp;<img src="mysql.svg" alt="drawing" width="40"/>
+</p>
+
+<p align="center">
+  [<img src="javascript.svg" alt="drawing" width="40"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  &nbsp;&nbsp;&nbsp;<img src="react.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="html5.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
+</p>
+
+<p align="center">
+  <img src="bulma.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="bootstrap.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="webpack.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
 </p>
 
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
