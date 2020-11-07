@@ -16,15 +16,16 @@ Here you can watch what I've done since I committed to the journey of becoming a
   <summary>A little bit about me.</summary>
   <br>
 
-  I'm from Argentina and worked most of my adult life in the Real State business. 
-  Also worked attending customers in all different kinds of business. 
-  I like to recognize good and bad services. Love feedback about everything, if given positively and honest, better.
+  &nbsp;&nbsp;&nbsp;I'm from Argentina and worked most of my adult life in the Real State business. 
+  Also worked attending customers in all different kinds of business.<br>
+  &nbsp;&nbsp;&nbsp;I like to recognize good and bad services. Love feedback about everything, if given positively and honest, better.
 
-  And like I suppose everybody does I love Life in the most meaningful way of the word. I consider every little detail counts.
+  &nbsp;&nbsp;&nbsp;And like I suppose everybody does I love Life in the most meaningful way of the word. I consider every little detail counts.
 
-  I'm a Drummer 🥁. And I think music is essential in everyday life. I use to hear a ton of genres, mostly 🎸Heavy-Metal🎸 drove.
+  &nbsp;&nbsp;&nbsp;I'm a Drummer 🥁. And I think music is essential in everyday life. I use to hear a ton of genres, mostly 🎸Heavy-Metal🎸 drove.
 
-  And lastly, for a couple of years, I've been committed to introspect and add healthy improvements to my life. Jogging/running, home training (calisthenics), quit smoking 🚭 , and eating healthy.
+  &nbsp;&nbsp;&nbsp;And lastly, for a couple of years, I've been committed to introspect and add healthy improvements to my life.<br>
+  &nbsp;&nbsp;&nbsp;Jogging/running, home training (calisthenics), quit smoking 🚭 , and eating healthy.
 </details>
 <br>
 <details>
