@@ -36,7 +36,7 @@ Here you can watch what I've done since I committed to the journey of becoming a
 <details>
 <summary>Why Bismarck?</summary>
 <br>
-Because at the time of building my GitHub account I was hearing 'all day long' a [song from Sabaton called Bismarck](https://www.youtube.com/watch?v=n4zAyyh5VLo).
+Because at the time of building my GitHub account I was hearing 'all day long' a [![Bismarck](http://img.youtube.com/vi/n4zAyyh5VLo/0.jpg)](http://www.youtube.com/watch?v=n4zAyyh5VLo "song from Sabaton called Bismarck")
 
 Also I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
 </details>
