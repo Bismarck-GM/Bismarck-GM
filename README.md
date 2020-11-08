@@ -38,7 +38,6 @@ Here you can watch what I've done since I committed to the journey of becoming a
     - 🍒 and eating healthy.
 </details>
 <hr>
-<br>
 <hr>
 <details>
   <summary>Why Bismarck?</summary>
