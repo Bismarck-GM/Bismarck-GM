@@ -50,7 +50,7 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 <hr>
 
 
-<p align="center">My GitHub Stats!
+<p align="center"><h3>My GitHub Stats!</h3>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
 </p>
