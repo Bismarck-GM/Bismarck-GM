@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="BismarckGMLogoGrey.png" alt="drawing" width="400"/>
+  <a href="#"><img src="BismarckGMLogoGrey.png" alt="drawing" width="400"/></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
 
 I've dreamed becoming a Full-Stack Developer since I was a child.
-<br>
+<br><br>
 
 <h3 align="center">🧑‍🎓 I'm currently completing the <a href="https://www.microverse.org/">Microverse</a> curriculum! 🧑‍🎓</h3>
 
@@ -26,25 +26,25 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 ## My Stack and tools:
 
 <p align="center">
-  <img src="ruby.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="rubyonrails.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="postgresql.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="mysql.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="javascript.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="react.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="html5.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
+  <a href="#"><img src="ruby.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="rubyonrails.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="postgresql.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="mysql.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="javascript.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="react.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="html5.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="css3.svg" alt="drawing" width="40"/></a>
 </p>
 
 <p align="center">
-  <img src="bulma.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="bootstrap.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="webpack.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="sass.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="git.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="github.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="windows.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
+  <a href="#"><img src="bulma.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="bootstrap.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="webpack.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="sass.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="git.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="github.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="windows.svg" alt="drawing" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;<a href="#"><img src="linux.svg" alt="drawing" width="40"/></a>
 </p>
 
 
@@ -52,7 +52,7 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 
 
 <p align="center">My GitHub Stats!</p>
-  <a href="https://github.com/Bismarck-GM/github-readme-stats">
+  <a align="center" href="https://github.com/Bismarck-GM/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
   </a>
 
