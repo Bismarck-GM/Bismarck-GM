@@ -62,7 +62,7 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
   <summary>A little bit about me.</summary>
   <br>
 
-  - 🇦🇷 I'm from Argentina and worked most of my adult life in the Real State business. 
+  - :argentina: I'm from Argentina and worked most of my adult life in the Real State business. 
   Also worked attending customers in all different kinds of business.
   - 📚 like to recognize good and bad services. Love feedback about everything, if given positively and honest, better.
 
