@@ -11,7 +11,7 @@ I enjoy learning and building different kinds of projects. I'm into all kinds of
 I've dreamed becoming a Full-Stack Developer since I was a child.
 <br><br>
 
-<h3 align="center">🧑‍🎓 I'm currently completing the <a href="https://www.microverse.org/">Microverse</a> curriculum! 🧑‍🎓</h3>
+<h3 align="center">🧑‍🎓 I'm currently completing <a href="https://www.microverse.org/">Microverse</a> curriculum! 🧑‍🎓</h3>
 
 <br>
 
@@ -52,9 +52,10 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 
 
 <p align="center">My GitHub Stats!</p>
-  <a align="center" href="https://github.com/Bismarck-GM/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
-  </a>
+<div style="text-align:center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
+</div>
+<br>
+
 
 
 <details>
