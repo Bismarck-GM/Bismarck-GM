@@ -6,17 +6,57 @@
 
 ## Hello there 👋
 
-### Welcome to my GitHub Account :octocat:.
-
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
 
-Here you can watch what I've done since I committed to the journey of becoming a Full Stack Developer, a dream I have since I was a child.
+I've dreamed becoming a Full-Stack Developer since I was a child.
 <br>
 
-<h3 align="center">🧑‍🎓 I'm currently coursing through <a href="https://www.microverse.org/">Microverse</a>🧑‍🎓</h3>
+<h3 align="center">🧑‍🎓 I'm currently completing the <a href="https://www.microverse.org/">Microverse</a> curriculum! 🧑‍🎓</h3>
 
 <br>
+
+## Contact 🔗:
+<br>
+
+- Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
+- Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
+- Twitter: [@GeronimoMorisot](https://twitter.com/GeronimoMorisot)
+- Angel List: [Geronimo Morisot](https://angel.co/u/geronimo-morisot-morla)
+
+## My Stack and tools:
+
+<p align="center">
+  <img src="ruby.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="rubyonrails.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="postgresql.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="mysql.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="javascript.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="react.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="html5.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
+</p>
+
+<p align="center">
+  <img src="bulma.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="bootstrap.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="webpack.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="sass.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="git.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="github.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="windows.svg" alt="drawing" width="40"/>
+  &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
+</p>
+
+
 <hr>
+
+
+<p align="center">My GitHub Stats!</p>
+  <a href="https://github.com/Bismarck-GM/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
+  </a>
+
+
 <details>
   <summary>A little bit about me.</summary>
   <br>
@@ -37,63 +77,11 @@ Here you can watch what I've done since I committed to the journey of becoming a
     - 🚭 no smoking,
     - 🍒 and eating healthy.
 </details>
-<hr>
-<hr>
 <details>
   <summary>Why Bismarck?</summary>
   <br>
   Because at the time of building my GitHub account I was hearing 'all day long' a song from Sabaton called Bismarck.<br>
   Also, I like WW2 histories and machinery created in which was the world's biggest conflict to date. And, Bismarck was a show of what we, as humans, can build. It was a real 'monster of the sea', with a ton of issues, but still managed to be an imponent piece of human-created machinery.
-</details>
-<hr>
-
-## Contact 🔗:
-<br>
-
-- Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
-- Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
-- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
-
-## My Stack and tools:
-
-<p align="center">
-  <img src="ruby.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="rubyonrails.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="postgresql.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="mysql.svg" alt="drawing" width="40"/>
-</p>
-
-<p align="center">
-  <img src="javascript.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="react.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="html5.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="css3.svg" alt="drawing" width="40"/>
-</p>
-
-<p align="center">
-  <img src="bulma.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="bootstrap.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="webpack.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="sass.svg" alt="drawing" width="40"/>
-</p>
-<p align="center">
-  <img src="git.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="github.svg" alt="drawing" width="40"/>
-</p>
-<p align="center">
-  <img src="windows.svg" alt="drawing" width="40"/>
-  &nbsp;&nbsp;&nbsp;<img src="linux.svg" alt="drawing" width="40"/>
-</p>
-
-<hr>
-
-<details>
-  <summary>My GitHub Stats!</summary>
-
-  [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight)](https://geronimomorisot.me/)
-
-  </a>
-
 </details>
 
 <hr>
