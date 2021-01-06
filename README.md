@@ -50,10 +50,10 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 <hr>
 
 
-<p align="center"><h3>My GitHub Stats!</h3>
+<h3 align="center">My GitHub Stats!
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Bismarck-GM&&show_icons=true&theme=tokyonight" />
-</p>
+</h3>
 <br>
 
 
