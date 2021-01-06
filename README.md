@@ -11,8 +11,7 @@ I enjoy learning and building different kinds of projects. I'm into all kinds of
 I've dreamed becoming a Full-Stack Developer since I was a child.
 <br><br>
 
-<h3 align="center">🧑‍🎓 I'm currently completing <a href="https://www.microverse.org/">Microverse</a> curriculum! 🧑‍🎓</h3>
-
+<h3 align="center">🧑‍🎓 I'm currently completing <a href="https://www.microverse.org/">Microverse</a> curriculum! 🎓🧑</h3>
 <br>
 
 ## Contact 🔗:
@@ -23,7 +22,7 @@ I've dreamed becoming a Full-Stack Developer since I was a child.
 - Twitter: [@GeronimoMorisot](https://twitter.com/GeronimoMorisot)
 - Angel List: [Geronimo Morisot](https://angel.co/u/geronimo-morisot-morla)
 
-## My Stack and tools:
+## My Stack and tools :computer::
 
 <p align="center">
   <a href="#"><img src="ruby.svg" alt="drawing" width="40"/></a>
