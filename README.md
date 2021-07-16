@@ -7,8 +7,6 @@
 ## Hello there 👋
 
 I enjoy learning and building different kinds of projects. I'm into all kinds of technologies and always love to learn new things.
-
-I've dreamed becoming a Full-Stack Developer since I was a child.
 <br><br>
 
 ## Contact 🔗:
