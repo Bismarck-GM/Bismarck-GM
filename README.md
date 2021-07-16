@@ -11,9 +11,6 @@ I enjoy learning and building different kinds of projects. I'm into all kinds of
 I've dreamed becoming a Full-Stack Developer since I was a child.
 <br><br>
 
-<h3 align="center">🧑‍🎓 I'm currently completing <a href="https://www.microverse.org/">Microverse</a> curriculum! 🎓🧑</h3>
-<br>
-
 ## Contact 🔗:
 <br>
 
