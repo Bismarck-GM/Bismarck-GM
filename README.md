@@ -15,7 +15,6 @@ I enjoy learning and building different kinds of projects. I'm into all kinds of
 - Linkedin: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
 - Portfolio: [www.geronimomorisot.me](https://geronimomorisot.me/)
 - Twitter: [@GeronimoMorisot](https://twitter.com/GeronimoMorisot)
-- Angel List: [Geronimo Morisot](https://angel.co/u/geronimo-morisot-morla)
 
 ## My Stack and tools :computer::
 
